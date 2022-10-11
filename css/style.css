@@ -504,7 +504,7 @@ footer a {
   }
   header .header-title h5 {
     text-align: center;
-    padding-left: 0;
+    padding-left: 0 !important;
 
   }
 }
