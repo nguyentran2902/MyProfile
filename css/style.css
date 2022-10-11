@@ -502,7 +502,7 @@ footer a {
   .header-title h3 {
     text-align: center;
   }
-  .header-title h5 {
+  header .header-title h5 {
     text-align: center;
     padding-left: 0;
 
